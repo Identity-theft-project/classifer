@@ -1,2 +1,5 @@
 data/check/*
 data/license/*
+*.model
+*.pickle
+model*
